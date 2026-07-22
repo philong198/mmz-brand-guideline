@@ -1,0 +1,7 @@
+# Keep only essential files
+/*
+!.git/
+!index.html
+!README.md
+!vercel.json
+!.gitignore
